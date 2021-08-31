@@ -5,7 +5,8 @@ class Pet extends Component {
     render() { 
         return (
             
-            <h1>Animal</h1>
+            <h1>Animal</h1>,
+            <h1>Anima2</h1>
           );
     }
 }
